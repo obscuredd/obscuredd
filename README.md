@@ -17,7 +17,7 @@ nurse ' sㅤbiggestㅤfanㅤ𓈒ㅤ𓈒
 
 </p>
 <p align="center"><img src="https://64.media.tumblr.com/5f9a3bc049c610b588d93b24b0509381/e39730e3a20adf64-3b/s100x200/4b2ac1c49620956613bf9e61199a0b1605a2ebfa.pnj" width="55" /> <img src="https://64.media.tumblr.com/3af098ed5e73cab548e3185b1a633cf6/c945c9d602eda718-5c/s100x200/5b26d600ddda76d03707597f84f0c2b8043d4176.pnj" width="55" />
-
+<br>
  <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ihyzlrdcho4bdfmuzbycyes4gi&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&profanity=false&hide_remaster=false&bar_color=000000&bar_color_cover=false">
   </a>
